@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "884891545733",
-    "firebase_url": "https://midterm-f9dc9.firebaseio.com",
-    "project_id": "midterm-f9dc9",
-    "storage_bucket": "midterm-f9dc9.appspot.com"
+    "project_number": "552958360350",
+    "firebase_url": "https://fir-midterm-d6685.firebaseio.com",
+    "project_id": "fir-midterm-d6685",
+    "storage_bucket": "fir-midterm-d6685.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:884891545733:android:0738bdb975322902c8f9ec",
+        "mobilesdk_app_id": "1:552958360350:android:946d28c0de590a69ac670f",
         "android_client_info": {
           "package_name": "com.mareeya.mareeya"
         }
       },
       "oauth_client": [
         {
-          "client_id": "884891545733-lefo2g8e1ak5drt8fuhf820buh176915.apps.googleusercontent.com",
+          "client_id": "552958360350-pr40kinoqvqn2o32shdkspdkmccv30cr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB6bKhoU5uuZ9gll67Cn-Bw56Q9SyLJld0"
+          "current_key": "AIzaSyDUIBKmDNTUqNYNIBpWFpVK9gbzaW-eXnI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "884891545733-lefo2g8e1ak5drt8fuhf820buh176915.apps.googleusercontent.com",
+              "client_id": "552958360350-pr40kinoqvqn2o32shdkspdkmccv30cr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
